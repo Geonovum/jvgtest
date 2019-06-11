@@ -53,9 +53,9 @@ var respecConfig =
     }, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "kort", 	     		// Wordt gebruikt in de document URL
+  shortName: "jvg", 	     		// Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
-  pubDomain: "nieuw",			// Informatiemodel Geluid
+  pubDomain: "test",			// Informatiemodel Geluid
   //pubDomain: "mim",			// Metamodel Informatie Modellering
   //pubDomain: "bor",			// Beheer Openbare Ruimte
   //pubDomain: "bro",			// Basisregistratie Ondergrond
@@ -70,11 +70,11 @@ var respecConfig =
   //pubDomain: "visu",			// Visualisatie
   //pubDomain: "wp",			// White Paper
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/Geonovum/RepoNaam",
+  github: "https://github.com/Geonovum/jvgtest",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/Geonovum/RepoNaam/issues/",
+  issueBase: "https://github.com/Geonovum/jvgtest/issues/",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://geonovum.github.io/RepoNaam",
+  edDraftURI: "https://geonovum.github.io/jvgtest",
   //-- license: voor de geldende gebruiksvoorwaarden
   licence: "cc-by-nd",			//-- bronvermelding, geen afgeleide werken (default)
   // licence: "cc0",			//-- Public Domain Dedication
